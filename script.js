@@ -1,1 +1,1 @@
-alert("parmeraaaaa")
+alert("galo")
